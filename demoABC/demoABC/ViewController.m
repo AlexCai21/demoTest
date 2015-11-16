@@ -21,6 +21,7 @@
     int b = 0;
     int c = 0;
     c = a + b;
+    c = a;
 }
 
 - (void)didReceiveMemoryWarning {
